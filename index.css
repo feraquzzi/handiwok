@@ -56,10 +56,6 @@ a {
 .bi-facebook {
   color: rgb(11, 124, 168);
 }
-
-.bi-twitter {
-  color: rgb(44, 177, 230);
-}
-#follow {
-  font-family: sans-serif;
+.bi-twitter{
+    color:rgb(44, 177, 230);
 }
