@@ -1,6 +1,6 @@
 .all {
-  display: flex;
-  justify-content: space-between;
+  /*display: flex;
+  justify-content: space-between;*/
   width: 100%;
   margin-top: 5%;
   float: left;
@@ -60,6 +60,8 @@ a {
 .bi-twitter {
   color: rgb(44, 177, 230);
 }
+
+
 #follow {
   font-family: sans-serif;
 }
